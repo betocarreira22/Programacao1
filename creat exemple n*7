@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main () {
+	int meuNumero=5;
+	float meuNumeroDecimal=5.99;
+	char meuCaractere='D';
+}
