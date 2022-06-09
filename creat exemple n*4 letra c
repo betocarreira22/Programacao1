@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main () {
+   float opcaoA,opcaoB;
+   opcaoA=24;
+   opcaoB=30;
+   printf("opcaoA:%f\n",opcaoA);
+   printf("opcaoB:%f\n",opcaoB);
+}
