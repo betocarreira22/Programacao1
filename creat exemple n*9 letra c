@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main () {
+	int x=10;
+	printf("x:%d",x+1);
+	printf("x:%d",x+2);	
+}
+//saída desejada:11 12
