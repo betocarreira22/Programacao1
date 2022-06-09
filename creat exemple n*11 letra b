@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main () {
+	int x=10;
+	int y=50;
+	
+	if(y<x) {
+	printf("x e maior que y");
+	}
+	else {
+	printf("x e menor que y");
+    }
+}
+//saída desejada:x é menor que y
