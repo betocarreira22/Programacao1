@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main () {
+   char caractere;
+   caractere='B';
+   printf("caractere:%c",caractere);
+}
